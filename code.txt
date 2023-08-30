@@ -1,0 +1,19 @@
+npx create-react-app stablediff
+
+Happy hacking!
+npm notice 
+npm notice New minor version of npm available! 9.5.1 -> 9.8.1
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v9.8.1
+npm notice Run npm install -g npm@9.8.1 to update!
+npm notice
+PS C:\NeuralByte\Generative AI\code> 
+
+
+
+echo "# reactstablediff" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ravirajupotturi/reactstablediff.git
+git push -u origin main
